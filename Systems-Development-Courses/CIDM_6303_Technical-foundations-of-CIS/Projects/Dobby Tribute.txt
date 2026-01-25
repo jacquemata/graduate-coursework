@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link href="styles.css" rel="stylesheet" />
+    <title>Dobby The Elf</title>
+  </head>
+  <body>
+    <h1>Dobby The Elf</h1>
+    <p>"Dobby has no master! Dobby is a free elf, and Dobby has come to save Harry Potter and his friends!"</p>
+    <main id="main">
+      <div id="img-div">
+        <img
+          id="image"
+          class="border"
+          src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.C-9xQPPAO1LZjbJ3Y0445QHaHZ%26pid%3DApi&f=1&ipt=afb17d478aa2545d3a4fef8aed1da55572341a2a3242b6d2012b3403449ab1ce&ipo=images"
+          alt="An image of Dobby"
+        />
+        <figcaption id="img-caption">A free elf (1993–1998)</figcaption>
+      </div>
+      <h2 id="title">Dobby is always helping Harry Potter</h2>
+      <hr />
+      <div id="tribute-info">
+        <p>
+          Dobby was the resident house-elf of Malfoy Manor. The Malfoys were harsh and abused Dobby often.
+
+Dobby was threatened many times during his time serving the Malfoy family and told Harry Potter that he was accustomed to death threats, because he received them 'five times a day' from the Malfoys. Though he always did as he was told, he knew that their behaviour was wrong and he longed to be free of them. He is the first house-elf seen to "break free" of his masters' wills, warning Harry of the Chamber of Secrets, and alongside Kreacher, is the only house elf seen who truly dislikes their original master. 
+        </p>
+        <p>
+          Near the end of Harry's second year, Lucius Malfoy came to the school with Dobby to see if it was true that Headmaster Albus Dumbledore had returned. Here, realising that Dobby belonged to the Malfoys, Harry stuffed Tom Riddle's Diary into one of his socks and handed it to Lucius. Lucius ripped the sock off the diary, only for the sock to be caught by Dobby. This act freed Dobby from the Malfoys.
+        </p>
+        <hr />
+        <p><u>A Free Elf</u></p>
+        <ul style="list-style-type: none">
+          <li>Working at Hogwarts</li>
+          <li>Dumbledore's Army</li>
+          <li>Spying on Draco Malfoy</li>
+          <li>Malfoy Manor skirmish</li>
+          <li>Death: "HERE LIES DOBBY, A FREE ELF."</li>
+        </ul>
+        <p>
+          Check out this
+          <a
+            id="tribute-link"
+            href="https://harrypotter.fandom.com/wiki/Dobby#Biography"
+            target="_blank"
+            rel="noopener noreferrer"
+            >Dobby Fandom Biography</a
+          >
+          for more information.
+        </p>
+      </div>
+    </main>
+  </body>
+  <footer>
+    <a class="myfooter" href="../">Return to Project List</a> |
+    <a class="myfooter" href="../">Return to HomePage</a>
+  </footer>
+</html>
+---------------------------------------------------------------------------------------------------------------------------------
+
+body {
+  background-color: #00202E;
+  color: white;
+}
+main {
+  background-color: #003F5c;
+  font-family: Serif;
+  max-width: 500px;
+  margin: 20px auto;
+  color: white;
+  border-radius: 30px;
+  box-shadow: 5px 5px rgba(0, 0, 0, 0.5);
+}
+h2 {
+  text-align: center;
+  font-size: 30pt;
+  font-family: Serif;
+}
+body {
+  text-align: center;
+  font-size: 14pt;
+}
+footer {
+  text-align: center;
+  font-size: 12pt;
+}
+.border {
+  border-color: black;
+  border-width: 5px;
+  border-style: solid;
+}
+#image {
+  height: auto;
+  display: block;
+  margin: auto;
+  max-width: 100%;
+  border-radius: 10%;
+}
+#img-caption {
+  font-size: 12pt;
+}
+#tribute-link {
+  color: white;
+}
+hr {
+  border-color: black;
+}
+
+.myfooter {
+  color: white;
+}
