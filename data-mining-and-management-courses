@@ -1,0 +1,13 @@
+# Data Mining and Management
+
+This folder contains selected coursework artifacts and summaries related to data mining and data management.
+
+Topics may include:
+- Database design (ER modeling, normalization)
+- SQL (DDL, DML) and relational concepts
+- Data mining workflows and data preparation
+- Intro to supervised and unsupervised learning applications
+
+Related courses:
+- CIDM 6350 Database System Design
+- CIDM 6355 Data Mining Methods
