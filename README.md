@@ -9,16 +9,16 @@ The purpose of this repository is to:
 
 ## Repository Structure
 
-- **data-analytics/**  
+- [Data-Analytics-Courses](./Data-Analytics-Courses)  
   Coursework related to data analytics, business intelligence, regression, clustering, and visualization.
 
-- **data-mining-and-management/**  
+- [Data-Mining-and-Management-Courses](./Data-Mining-and-Management-Courses)
   Coursework related to database design, SQL, data mining concepts, and data preparation.
 
-- **systems-development/**  
+- [Systems-Development-Courses](./Systems-Development-Courses)
   Coursework related to Python programming, web development, Django applications, and CRUD systems.
 
-- **networking-and-cybersecurity/**  
+- [Networking-and-Cybersecurity-Courses](./Networking-and-Cybersecurity-Courses)
   Coursework related to networking concepts, vulnerability analysis, and cybersecurity practices.
 
-Not all coursework is represented in executable form. Some assignments were completed in academic environments outside GitHub and are summarized here for documentation purposes.
+Not all coursework is represented in executable form. Some assignments were completed in academic environments outside GitHub and are summarized here for documentation purposes. Some coursework artifacts have been redacted to remove personal identifiers.
