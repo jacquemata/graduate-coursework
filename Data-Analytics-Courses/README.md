@@ -2,7 +2,7 @@
 
 This folder contains selected coursework artifacts and summaries related to data analytics.
 
-## Topics Covered:
+## Topics Covered
 - Data acquisition and preparation
 - Regression (linear, logistic) and model interpretation
 - Classification and clustering (intro level)
@@ -13,6 +13,7 @@ This folder contains selected coursework artifacts and summaries related to data
 ### CIDM 6308 — Seminar in Data Analytics
 All coursework artifacts for this course are contained within the course folder. Representative materials include:
 
+Representative artifacts include:
 - [Understanding_Data_Science_certificate.pdf](./CIDM_6308_Seminar-in-Data-Analytics/Datacamp_Certificates/Understanding_Data_Science_certificate.pdf) — Foundational data science concepts
 - [Understanding_Machine_Learning_certificate.pdf](./CIDM_6308_Seminar-in-Data-Analytics/Datacamp_Certificates/Understanding_Machine_Learning_certificate.pdf) — Introductory machine learning principles
 - [Tableau_Case_Study_certificate.pdf](./CIDM_6308_Seminar-in-Data-Analytics/Datacamp_Certificates/Tableau_Case_Study_certificate.pdf) — Data visualization and dashboard design

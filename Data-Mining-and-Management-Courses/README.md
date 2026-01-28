@@ -46,10 +46,10 @@ Additional related work and demonstrations are available here:
 This course emphasized data mining techniques, machine learning workflows, and applied Python analysis.
 
 Representative artifacts include:
-- [Intro to Data Science in Python.pdf](./CIDM_6355_Data-mining-methods/Datacamp_Certificates/Intro%20to%20Data%20Science%20in%20Python.pdf)
-- [Intro to NLP in Python.pdf](./CIDM_6355_Data-mining-methods/Datacamp_Certificates/Intro%20to%20NLP%20in%20Python.pdf)
-- [Sentiment Analysis in Python.pdf](./CIDM_6355_Data-mining-methods/Datacamp_Certificates/Sentiment%20Analysis%20in%20Python.pdf)
-- [Unsupervised Learning in Python.pdf](./CIDM_6355_Data-mining-methods/Datacamp_Certificates/Unsupervised%20Learning%20in%20Python.pdf)
+- [Intro to Data Science in Python.pdf](./CIDM_6355_Data-mining-methods/Datacamp_Certificates/Intro%20to%20Data%20Science%20in%20Python.pdf) — Data science fundamentals
+- [Intro to NLP in Python.pdf](./CIDM_6355_Data-mining-methods/Datacamp_Certificates/Intro%20to%20NLP%20in%20Python.pdf) — Natural language processing basics
+- [Sentiment Analysis in Python.pdf](./CIDM_6355_Data-mining-methods/Datacamp_Certificates/Sentiment%20Analysis%20in%20Python.pdf) — Text sentiment modeling
+- [Unsupervised Learning in Python.pdf](./CIDM_6355_Data-mining-methods/Datacamp_Certificates/Unsupervised%20Learning%20in%20Python.pdf) — Clustering and dimensionality reduction
 - [HW3_DataMining_Project.pdf](./CIDM_6355_Data-mining-methods/HW3_DataMining_Project.pdf) — Applied data mining project
 
 Additional notebooks and exploratory work were completed in Google Colab and can be shared if needed.

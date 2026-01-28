@@ -2,7 +2,7 @@
 
 This folder contains selected coursework artifacts and summaries related to systems and web development.
 
-## Topics Covered:
+## Topics Covered
 - Python programming and scripting
 - Web development concepts (HTML/CSS)
 - Django web application development and CRUD design

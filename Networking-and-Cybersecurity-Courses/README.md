@@ -2,7 +2,7 @@
 
 This folder contains selected coursework artifacts and summaries related to networking and cybersecurity.
 
-## Topics Covered:
+## Topics Covered
 - Network scanning and traffic analysis (course tools)
 - Vulnerability assessment concepts
 - Threat analysis and security reporting
@@ -13,6 +13,7 @@ This folder contains selected coursework artifacts and summaries related to netw
 ### CIDM 6340 — Network Management and Information Security
 All coursework artifacts for this course are contained within the course folder. Representative materials include:
 
+Representative artifacts include:
 - [Research_Report_1.pdf](./CIDM_6340_Network-management-and-information-security/Research_Reports/Research_Report_1.pdf)
 - [Research_Report_2.pdf](./CIDM_6340_Network-management-and-information-security/Research_Reports/Research_Report_2.pdf)
 - [Research_Report_3.pdf](./CIDM_6340_Network-management-and-information-security/Research_Reports/Research_Report_3.pdf)
