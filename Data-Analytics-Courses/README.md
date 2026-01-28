@@ -11,7 +11,7 @@ This folder contains selected coursework artifacts and summaries related to data
 ## Courses Included
 
 ### CIDM 6308 — Seminar in Data Analytics
-All coursework artifacts for this course are contained within the course folder. Representative materials include:
+All coursework artifacts for this course are contained within the course folder.
 
 Representative artifacts include:
 - [Understanding_Data_Science_certificate.pdf](./CIDM_6308_Seminar-in-Data-Analytics/Datacamp_Certificates/Understanding_Data_Science_certificate.pdf) — Foundational data science concepts
