@@ -2,26 +2,6 @@
 
 This folder contains selected coursework artifacts and summaries related to data mining and data management.
 
-## Topics Covered:
-- Database design (ER modeling, normalization)
-- SQL (DDL, DML) and relational concepts
-- Data mining workflows and data preparation
-- Intro to supervised and unsupervised learning applications
-
-Perfect — this one just needs the same treatment as Data Analytics:
-convert descriptive bullets into real, clickable links and tighten the wording.
-
-Below is a fully corrected, copy-paste–ready version of
-Data-Mining-and-Management-Courses/README.md with working relative links based on what’s visible in your screenshot.
-
-✅ FIXED: Data-Mining-and-Management-Courses / README.md
-
-Paste this over the existing README.
-
-# Data Mining and Management
-
-This folder contains selected coursework artifacts and summaries related to data mining and data management.
-
 ## Topics Covered
 - Database design (ER modeling, normalization)
 - SQL (DDL, DML) and relational concepts
